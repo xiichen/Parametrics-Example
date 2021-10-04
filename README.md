@@ -8,8 +8,9 @@ This model that came from Grasshopper:
 ![Blob Demo GIF](https://github.com/bhowes-tt/Markerceratops/blob/main/docs/Markerceratops_MirarBlobDemo.gif)
 
 ## Try it!
-Point that phone of yours at the QR code on this poster, and then keep the AEC logo in frame, and lo and behold the state of the Free AR art! 
-![Mirar Poster](https://github.com/bhowes-tt/Markerceratops/blob/main/docs/Markerceratops_MirarBlobPoster.png)
+Point that phone of yours at the QR code below, and then keep the AEC marker in frame, and lo and behold --- the state of the Free AR art! 
+![QR](https://github.com/bhowes-pratt/ARjs-Single-Model-Example/blob/main/docs/ARjs-Sample-QR-600.png =250x250)
+![Marker](https://github.com/bhowes-pratt/ARjs-Single-Model-Example/blob/main/docs/AECmarker.png)
 
 
 # Instructions:
