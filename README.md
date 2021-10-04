@@ -3,7 +3,7 @@
 This is a sample repository for [Parametrics](https://parametrics.space/) students to fork.  Instructions below for forking this repo, setting up github pages to serve your site over the web, and swapping in your own content from Rhino and Grasshopper are below.  
 
 
-## Mirar Blob Demo - [https://bhowes-tt.github.io/Markerceratops/blob/](https://bhowes-tt.github.io/Markerceratops/blob/)
+## Mirar Blob Demo - [https://bhowes-pratt.github.io/ARjs-Single-Model-Example/](https://bhowes-pratt.github.io/ARjs-Single-Model-Example/)
 This model that came from Grasshopper:  
 ![Blob Demo GIF](https://github.com/bhowes-tt/Markerceratops/blob/main/docs/Markerceratops_MirarBlobDemo.gif)
 
