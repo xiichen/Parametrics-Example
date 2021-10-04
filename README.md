@@ -9,7 +9,7 @@ This model that came from Grasshopper:
 
 ## Try it!
 Point that phone of yours at the QR code below, and then keep the AEC marker in frame, and lo and behold --- the state of the Free AR art! 
-![QR](https://github.com/bhowes-pratt/ARjs-Single-Model-Example/blob/main/docs/ARjs-Sample-QR-600.png =250x250)
+![QR](https://github.com/bhowes-pratt/ARjs-Single-Model-Example/blob/main/docs/ARjs-Sample-QR-small.png )
 ![Marker](https://github.com/bhowes-pratt/ARjs-Single-Model-Example/blob/main/docs/AECmarker.png)
 
 
